@@ -16,7 +16,7 @@ public class Main {
 		}
 		
 		if(count == 5) {
-			System.out.println("Число " + p + " простое ");
+			System.out.println("Число " + p + " простое");
 		} else {
 			System.out.println("Число " + p + " составное");
 		}
